@@ -11,20 +11,24 @@ henry.tuoriniemi@gmail.com
 # Profiili
 
 Olen ohjelmistokehityksestä kiinnostunut opiskelija Ammattiopisto Luovilla.
-Minun osaaminen ja kiinnostus tällä hetkellä keskittyy enimmäksen erillaisiin webbi-teknologiohin.
+Minun osaaminen ja kiinnostus tällä hetkellä keskittyy enimmäkseen FullStack ohjelmointiin ja erilaisiin sulatettuihin järjestelmiin.
 
-# Taitoalueet
+# Taitoalueet ja osaamisen niissä
 
-* Python
-* SQL, MongoDB
-* HTML, CSS, JavaScript
-* Kotlin
+* Python edistynyt taso
+* SQL, MongoDB edistynyt taso
+* HTML, CSS edistynyt taso
+* JavaScript, TypeScript edistynyt taso
+* Kotlin perustaso
+* PHP perustaso
  
 ---
 
 # Koulutus
 
 Tieto- ja viestintätekniikan perustutkinto, Ohjelmistokehittäjä, Ammattiopisto Luovi, 2023-2026?? (käynnissä vielä!!)
+
+# Työkokemus
 
 # Kielet
 
